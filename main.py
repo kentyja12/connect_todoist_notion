@@ -4,7 +4,6 @@ from todoist_api_python .api import TodoistAPI
 from notion.client import NotionClient
 import time 
 
-
 TODOIST_TOKEN = ' your todoist token '
 NOTION_TOKEN = ' your notion token '
 TODOIST_PROJECT_ID = ' your todoist project id '
