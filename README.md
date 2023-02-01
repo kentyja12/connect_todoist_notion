@@ -24,3 +24,7 @@ Using PyInstaller to make it an exe file is recommended.
 1. Print statements are in Japanese. 
 2. Code and function descriptions are in English. 
 3. If releasing modified code to third party, be careful with the tokens.
+
+## Next task
+- Activate script execution within Notion.
+- Facilitate the configuration of dates, tag synchronization, and project preferences.
